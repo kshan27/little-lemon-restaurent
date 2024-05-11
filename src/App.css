@@ -1,0 +1,94 @@
+header {
+  display: flex;
+  justify-content: flex-end;
+  height: 50px;
+  align-items: center;
+  width: 100%;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+
+.logo-name img {
+  height: 80px;
+  width: 250px;
+  margin: 30px;
+}
+
+.logo-name, .nav li {
+  color: black;
+  font-weight: 400;
+  align-self: center;
+  padding-left: 5px;
+}
+
+.nav {
+  margin-left: auto;
+}
+
+.nav li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+li a {
+  color: black;
+  font-weight: 600;
+  text-decoration: none;
+}
+ 
+
+.hero-background {
+  background-color: #495E57;
+  height: 100%;
+  display: flex;
+  color:#ffffff;
+}
+
+.hero {
+  padding: 2rem 0;
+  display: grid;
+  align-items: center;
+  grid-column-gap: 2rem;
+  grid-template: "info image";
+  grid-template-columns: 60fr 40fr;
+  max-width: 78rem;
+  margin: 0 auto;
+}
+
+.image {
+  grid-area: image;
+  width: 80%;
+  height: 25rem;
+  justify-self: end;
+  border-radius: 16px;
+  object-fit: cover;
+}
+
+input:invalid {
+  border: 2px dashed red;
+}
+
+input:invalid:required {
+  background-image: linear-gradient(to right, pink, lightgreen);
+}
+
+input:valid {
+  border: 2px solid black;
+}
+
+.error {
+  width: 100%;
+  padding: 0;
+
+  font-size: 80%;
+  color: white;
+  background-color: #900;
+  border-radius: 0 0 5px 5px;
+
+  box-sizing: border-box;
+  display:block;
+}
+
+.error.active {
+  padding: 0.3em;
+}
