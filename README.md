@@ -1,6 +1,20 @@
 # Little Lemon Restaurent (React App) Capstone Project
 Little Lemon App
 
+This capstone project enables you to demonstrate multiple skills by solving an authentic real-world problems.
+
+Developing this project will test your knowledge and understanding, and provide you with a platform to show off your new abilities in front-end web development using React.
+
+This course consists of four modules:
+
+1. Little Lemon Restaurent Home page / Landing page.
+   a. Home page consist of 3 sections Header, Main section and Footer.
+   b. Header consists of restaurent logo and navigation menu.
+   c. The main section consists sub sections which promotes the brand, showing restarent special recepies, customers feedback and core values.
+   d. The Footer consist Logo, some useful links, social media links to follow and Contact details.
+   
+2. Table reservation form to book table.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
