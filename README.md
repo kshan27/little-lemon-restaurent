@@ -4,7 +4,14 @@
 
 This capstone project enables you to demonstrate multiple skills by solving an authentic real-world problems.
 
-Developing this project will test your knowledge and understanding, and provide you with a platform to show off your new abilities in front-end web development using React.
+Developing this project will test your knowledge and understanding, and provide you with a platform to show off your abilities in front-end web development using React, HTML, CSS and UI libraries. 
+
+In this project,
+1. I have begin with structuring layouts with semantic HTML.
+2. Used Flexbox and grid CSS properties to generate layouts.
+3. Improved the UX/UI of your app by further enhancing users' experience through the evaluation and revision of its design.
+4. Setting up project components using React.
+5. Used CSS media queries to provide seemless and responsive design across various screen sizes.
 
 This course consists of four modules:
 
