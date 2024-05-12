@@ -2,12 +2,12 @@
 
 ### Little Lemon App
 
-This capstone project enables you to demonstrate multiple skills by solving an authentic real-world problems.
+This capstone project enabled me to demonstrate multiple skills by solving an authentic real-world problems.
 
-Developing this project will test your knowledge and understanding, and provide you with a platform to show off your abilities in front-end web development using React, HTML, CSS and UI libraries. 
+Developing this project will test your knowledge and understanding, and provide you with a platform to show off your abilities in front-end web development using React, HTML, CSS and UI libraries.
 
 In this project,
-1. I have begin with structuring layouts with semantic HTML.
+1. I started with structuring layouts with semantic HTML.
 2. Used Flexbox and grid CSS properties to generate layouts.
 3. Improved the UX/UI of your app by further enhancing users' experience through the evaluation and revision of its design.
 4. Setting up project components using React.
@@ -16,10 +16,11 @@ In this project,
 This course consists of four modules:
 
 1. Little Lemon Restaurent Home page / Landing page.
-    * Home page consist of 3 sections Header, Main section and Footer.
-    * Header consists of restaurent logo and navigation menu.
-    * The main section consists sub sections which promotes the brand, showing restarent special recepies, customers feedback and core values.
-    * The Footer consist Logo, some useful links, social media links to follow and Contact details.
+
+    * Home page consists of 3 sections: Header, Main section and Footer.
+    * Header consists of the restaurant logo and navigation menu.
+    * The main section consists of subsections which promote the brand, showing restaurant special recipes, customers feedback and core values.
+    * The Footer consists of Logo, some useful links, social media links to follow and Contact details.
 
 2. Online Table reservation feature to book a table in advanced date.
 
