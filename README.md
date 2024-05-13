@@ -6,15 +6,18 @@ This capstone project enabled me to demonstrate multiple skills by solving an au
 
 Developing this project will test your knowledge and understanding, and provide you with a platform to show off your abilities in front-end web development using React, HTML, CSS and UI libraries.
 
-In this project,
+
 1. I started with structuring layouts with semantic HTML.
 2. Used Flexbox and grid CSS properties to generate layouts.
-3. Improved the UX/UI of your app by further enhancing users' experience through the evaluation and revision of its design.
-4. Setting up project components using React.
+3. Improved the UX/UI of the app by further enhancing users' experience through the evaluation and revision of its design.
+4. Set up project components using React.
 5. Used CSS media queries to provide seemless and responsive design across various screen sizes.
 
-This course consists of four modules:
+### UX considerations
+1. The app screens should encompass the look and feel of the Little Lemon restaurant brand as per the style guide provided.
+2. 
 
+### Project Modules
 1. Little Lemon Restaurent Home page / Landing page.
 
     * Home page consists of 3 sections: Header, Main section and Footer.

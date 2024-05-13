@@ -137,7 +137,7 @@ function BookingForm(props) {
     return (
         <>
             <Container maxW='container.md'>
-                <Card variant="elevated" size="lg">
+                <Card variant="outline" size="lg">
                     <CardHeader>
                         <Heading as='h3' size='lg'>
                             Reserve a Table
