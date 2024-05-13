@@ -15,15 +15,14 @@ function BookingPage() {
     }
 
     return (
-        <>
-            <div className="hero-background">
-                <div className="hero">
-                   <h2 style={{ width: "200" }}>Little Lemon</h2>
-                   <h3>Chicago</h3>
+        <div className="booking-page">
+            <div>
+                <div style={{textAlign: 'center', padding: '15px', color: 'white'}}>
+                   <h2 style={{ width: "200" }}>Little Lemon Table Reservation</h2>
                 </div>
             </div>
             <BookingForm availableTimes={availableTimes} formSubmit={formSubmit} />
-        </>
+        </div>
     );
 }
 
