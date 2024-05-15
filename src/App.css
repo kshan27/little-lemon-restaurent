@@ -53,6 +53,7 @@ li a {
   grid-template-columns: 60fr 40fr;
   max-width: 78rem;
   margin-left: 40px;
+  margin-right: 40px;
   
 }
 

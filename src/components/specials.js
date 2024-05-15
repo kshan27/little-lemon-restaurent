@@ -18,10 +18,9 @@ function Specials() {
                             Online Menu
                     </Link>
                 </div>
-                
             </div>
 
-            <div style={{ display: "flex", flexWrap: "wrap", justifyContent: "center", marginLeft: "120px", marginRight: "120px" }}>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: "5px", justifyContent: "center", marginLeft: "120px", marginRight: "120px" }}>
                 <div style={{flex: 2}}>
                 <Card maxW='sm' style={{overflow: 'hidden', backgroundColor: '#EDEFEE'}}>
                     <CardBody>
@@ -101,7 +100,7 @@ function Specials() {
                         </div>
                         <p>
                             Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.
-                            garnished with crunchy garlic and rosemary croutons.
+                            garnished.
                         </p>
                     </CardBody>
 
